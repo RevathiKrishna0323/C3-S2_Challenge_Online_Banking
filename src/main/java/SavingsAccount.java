@@ -4,5 +4,5 @@
  * Created With: IntelliJ IDEA Community Edition
  */
 
-public class Online_Bank {
+public class SavingsAccount {
 }
